@@ -1,0 +1,1 @@
+INSERT INTO users_management.user (`name`, `password`) VALUES ('admin', '$2a$10$qtH0F1m488673KwgAfFXEOWxsoZSeHqqlB/8BTt3a6gsI5c2mdlfe');
